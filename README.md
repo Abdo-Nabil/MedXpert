@@ -1,6 +1,6 @@
 <!-- vertical space &nbsp; -->
 
-# <img src="https://drive.google.com/uc?export=view&id=15SifBodLEf83FcUZJxzjlMVjmE3CN0Z4" alt="Icon" width="23"/> MedXpert - MEDICAL MOBILE APPLICATION
+# <img src=screenshots/splash.png alt="Icon" width="23"/> MedXpert - MEDICAL MOBILE APPLICATION
 
 
 
@@ -30,17 +30,17 @@ their vital signs.
 &ensp;
 
 
-![image1](https://drive.google.com/uc?export=view&id=1J7u_epkhfkDmb5Bhm3dhkXcqAAataLvN)
+![image1](screenshots/Slide1.PNG)
 
-![image2](https://drive.google.com/uc?export=view&id=1wvW_Nl9E7Baqdn7EOiYupynPp7n-LsRW)
+![image2](screenshots/Slide2.PNG)
 
-![image3](https://drive.google.com/uc?export=view&id=1AuYOkFpBoA-Qc0s0bUR_AtFIu4lx7FI2)
+![image3](screenshots/Slide3.PNG)
 
-![image4](https://drive.google.com/uc?export=view&id=1mf28tTF0SiH6WYkHQcuwNYO3MHsqjF_9)
+![image4](screenshots/Slide4.PNG)
 
-![image5](https://drive.google.com/uc?export=view&id=1I4T9RaDY9ZIkMnZqLJ-HY8S_UzpK_zsV)
+![image5](screenshots/Slide5.PNG)
 
-![image6](https://drive.google.com/uc?export=view&id=1WL3Z7DiHedQU6mD06BkL9cmgOLl60Jhh)
+![image6](screenshots/Slide6.PNG)
 
 
 
